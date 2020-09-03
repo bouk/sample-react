@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Getting Started #
+# Getting Started # 2
 
 These steps will get this sample application running for you using DigitalOcean.
 
